@@ -1,0 +1,5 @@
+{
+  "slack_api_token": "YOUR_SLACK_API_TOKEN",
+  "sacloud_access_token": "YOUR_SAKURA_API_TOKEN",
+  "sacloud_secret_token": "YOUR_SAKUEA_API_SECRET_TOKEN"
+}
