@@ -3,7 +3,7 @@ sacloud-bot
 
 slack上から[さくらのクラウド](http://cloud.sakura.ad.jp/)のサーバなどを操作するbotです。
 
-<iframe style="width:100%;height:155px;max-width:100%;margin:0 0 1.7rem;display:block;"title="Slack上からさくらのクラウドを操作できるbotをつくった | Black Everyday Company"src="http://hatenablog.com/embed?url=http://kuroeveryday.blogspot.jp/2016/04/slack-sacloud-bot.html"width="300"height="150"frameborder="0"scrolling="no"></iframe>
+[Slack上からさくらのクラウドを操作できるbotをつくった | Black Everyday Company](http://kuroeveryday.blogspot.jp/2016/04/slack-sacloud-bot.html)
 
 
 Installation
